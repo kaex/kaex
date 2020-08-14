@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**kaex/kaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://play.google.com/store/apps/developer?id=KRX+Studios" target="_blank"><img src="https://img.shields.io/badge/KRX%20Studios-FFA500.svg?&style=flat-square&logo=google-play&logoColor=white" alt="Google Play"></a>
+<a href="mailto:root@baransel.dev"><img src="https://img.shields.io/badge/root@baransel.dev-0077B5.svg?&style=flat-square&logo=mail.ru&logoColor=white" alt="Email"></a>
+<a href="https://baransel.dev" target="_blank"><img src="https://img.shields.io/badge/baransel.dev-E4405F.svg?&style=flat-square&logo=babel&logoColor=white" alt="Personal Website"></a>
+<a href="https://dev.to/baransel" target="_blank"><img src="https://img.shields.io/badge/baransel-0A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+<a href="https://open.spotify.com/user/31zx7me4iuez6n35zn6rosi23ihu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
-Here are some ideas to get you started:
+### A little about me...  
+```js
+const baransel = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "app dev", "tech", 'music', 'gaming'],
+    technologies: {
+        backEnd: ["php", "nodejs", "python"],
+        frontEnd: ["materialize", "bootstrap"],
+        mobileApp: ["java"],
+        database: ["mongo","mysql", "sqlite3"],
+        devOps: ["nginx", "docker"],
+        misc: ["socket.io", "gnu/linux", "bash"]
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Baransel's github stats](https://github-readme-stats.vercel.app/api?username=kaex&show_icons=true&theme=radical)
