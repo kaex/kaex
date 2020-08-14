@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.imgur.com/lsizgGl.gif" width="30px"></h2>
 
 <a href="https://play.google.com/store/apps/developer?id=KRX+Studios" target="_blank"><img src="https://img.shields.io/badge/KRX%20Studios-FFA500.svg?&style=flat-square&logo=google-play&logoColor=white" alt="Google Play"></a>
 <a href="mailto:root@baransel.dev"><img src="https://img.shields.io/badge/root@baransel.dev-0077B5.svg?&style=flat-square&logo=mail.ru&logoColor=white" alt="Email"></a>
@@ -21,5 +21,3 @@ const baransel = {
     }
 }
 ```
-
-![Baransel's github stats](https://github-readme-stats.vercel.app/api?username=kaex&show_icons=true&theme=radical)
