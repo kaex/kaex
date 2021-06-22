@@ -14,7 +14,7 @@ const baransel = {
     technologies: {
         backEnd: ["php", "nodejs", "python"],
         frontEnd: ["materialize", "bootstrap"],
-        mobileApp: ["java"],
+        mobileApp: ["java", "flutter"],
         database: ["mongo","mysql", "sqlite3"],
         devOps: ["nginx", "docker"],
         misc: ["socket.io", "gnu/linux", "bash"]
