@@ -7,6 +7,8 @@
 <a href="https://dev.to/baransel" target="_blank"><img src="https://img.shields.io/badge/baransel-0A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"></a>
 <a href="https://open.spotify.com/user/31zx7me4iuez6n35zn6rosi23ihu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
+### Sign up to <a href="https://baransel.dev/newsletter/" style="font-weight:700;color: white; text-decoration: underline">my newsletter!</a>
+
 ### A little about me...  
 ```js
 const baransel = {
