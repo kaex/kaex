@@ -17,11 +17,11 @@ const baransel = {
     askMeAbout: ["web dev", "app dev", "tech", 'music', 'gaming'],
     technologies: {
         backEnd: ["php", "nodejs", "python"],
-        frontEnd: ["materialize", "bootstrap"],
+        frontEnd: ["materialize", "bootstrap", "react", "angular"],
         mobileApp: ["java", "flutter"],
         database: ["mongo","mysql", "sqlite3"],
-        devOps: ["nginx", "docker"],
-        misc: ["socket.io", "gnu/linux", "bash"]
+        devOps: ["nginx", "docker", "aws"],
+        misc: ["socket.io", "gnu/linux", "bash", "symfony"]
     }
 }
 ```
