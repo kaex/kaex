@@ -5,7 +5,7 @@
 <a href="mailto:root@baransel.dev"><img src="https://img.shields.io/badge/root@baransel.dev-0077B5.svg?&style=flat-square&logo=mail.ru&logoColor=white" alt="Email"></a>
 <a href="https://baransel.dev" target="_blank"><img src="https://img.shields.io/badge/baransel.dev-E4405F.svg?&style=flat-square&logo=babel&logoColor=white" alt="Personal Website"></a>
 <a href="https://www.linkedin.com/in/bxransel/" target="_blank"><img src="https://img.shields.io/badge/Baransel%20Arslan-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/bxransel" target="_blank"><img src="https://img.shields.io/badge/bxransel-2880C5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://x.com/bxransel" target="_blank"><img src="https://img.shields.io/badge/bxransel-000000.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
 <a href="https://dev.to/baransel" target="_blank"><img src="https://img.shields.io/badge/baransel-0A0A0A.svg?&style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"></a>
 <a href="https://open.spotify.com/user/31zx7me4iuez6n35zn6rosi23ihu" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
