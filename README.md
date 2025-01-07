@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.imgur.com/lsizgGl.gif" width="35px" height="35px" /></h2>
 
-<a href="https://play.google.com/store/apps/developer?id=Absolute+Tech." target="_blank"><img src="https://img.shields.io/badge/Absolute%20Tech.-orange.svg?&style=flat-square&logo=googleplay&logoColor=white" alt="Absolute Tech. - Android Applications"></a>
+<a href="https://play.google.com/store/apps/developer?id=baransel.dev" target="_blank"><img src="https://img.shields.io/badge/baransel.dev-orange.svg?&style=flat-square&logo=googleplay&logoColor=white" alt="baransel.dev - Android Applications"></a>
 <a href="https://pub.dev/publishers/baransel.dev/packages" target="_blank"><img src="https://img.shields.io/badge/pub.dev-0077B5.svg?&style=flat-square&logo=dart&logoColor=white" alt="pub.dev"></a>
 <a href="mailto:root@baransel.dev"><img src="https://img.shields.io/badge/root@baransel.dev-0077B5.svg?&style=flat-square&logo=mail.ru&logoColor=white" alt="Email"></a>
 <a href="https://baransel.dev" target="_blank"><img src="https://img.shields.io/badge/baransel.dev-E4405F.svg?&style=flat-square&logo=babel&logoColor=white" alt="Personal Website"></a>
