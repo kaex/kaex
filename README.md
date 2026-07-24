@@ -30,5 +30,5 @@ const baransel = {
 **Now Playing** on Spotify	
 
 <a href="https://spotify-baransel.vercel.app/api/view?uid=31zx7me4iuez6n35zn6rosi23ihu&redirect=true" rel="nofollow noopener">
-    		<img alt="Now Playing on Spotify" style="margin: 5px 0 20px" src="https://spotify-baransel.vercel.app/api/view?uid=31zx7me4iuez6n35zn6rosi23ihu&cover_image=true&theme=novaterom&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=229ced&bar_color_cover=false">
+    		<img alt="Now Playing on Spotify" style="margin: 5px 0 20px" src="https://spotify-baransel.vercel.app/api/view?uid=31zx7me4iuez6n35zn6rosi23ihu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=229ced&bar_color_cover=false">
 </a>
